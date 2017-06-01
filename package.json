@@ -1,7 +1,7 @@
 {
-  "name": "@swimlane/ngx-charts",
+  "name": "@accomazzo/ngx-chart",
   "version": "5.3.1",
-  "description": "Declarative Charting Framework for Angular2 and beyond!",
+  "description": "Fork of Declarative Charting Framework for Angular2 and beyond!",
   "main": "release/index.js",
   "typings": "release/index.d.ts",
   "scripts": {
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swimlane/ngx-charts.git"
+    "url": "git+https://github.com/accomazzo/ngx-charts.git"
   },
   "keywords": [
     "angular2",
