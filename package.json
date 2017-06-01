@@ -66,9 +66,6 @@
     "Jayson Harshbarger"
   ],
   "license": "MIT",
-  "files": [
-    "release"
-  ],
   "bugs": {
     "url": "https://github.com/swimlane/ngx-charts/issues"
   },
